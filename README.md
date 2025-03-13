@@ -108,6 +108,9 @@ Any request without this token will be rejected.
 1. Import the provided **Postman collection** (included in the repository).  
 2. Use the token `vg@123` in headers for authentication.  
 3. Test different API endpoints.  
+4. URL for published documentation
+https://documenter.getpostman.com/view/37584024/2sAYkAQ2tw
+
 
 ---
 
